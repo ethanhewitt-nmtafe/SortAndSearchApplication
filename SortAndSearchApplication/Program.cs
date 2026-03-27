@@ -182,3 +182,5 @@ else
     Console.WriteLine("You Only Got " + winningCounter + "/" + totalOfNumbers + " Correct :(");
     Console.WriteLine("Better Luck Next Time!");
 }
+
+Console.ReadKey(); // can build on from this, might in the future.
